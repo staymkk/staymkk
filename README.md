@@ -1,10 +1,8 @@
 # Ksenia Molostvova
-
-**IT Student | Kotlin Learner | Android Development Enthusiast**
-
 ## About Me
-- **Student** at Novosibirsk State Technical University (NSTU), 2nd year
-- **Specialization:** Information Technology in Digital Economy
+![Student](https://img.shields.io/badge/🎓_Student-2nd_Year-blue)
+![University](https://img.shields.io/badge/🏫_NSTU-Novosibirsk-orange)
+![Specialization](https://img.shields.io/badge/📊_IT_Digital_Economy-purple)
 - **Professional Experience:** Working at a brokerage company with focus on trading applications
 - **Career Focus:** Android development with Kotlin
 
@@ -14,12 +12,10 @@
 - **Tools:** IntelliJ IDEA, Git, GitHub, Gradle
 - **Development Concepts:** OOP, Functional Programming, Clean Code
 
-## GitHub Activity
-<!-- Statistics will appear as activity increases -->
-<!-- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=staymkk&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=staymkk&layout=compact) 
--->
+## 📊 GitHub Activity
+[![GitHub Streak](https://streak-stats.demolab.com/?user=staymkk&theme=default)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=staymkk&color=blue)
 
 ## Featured Project
 
