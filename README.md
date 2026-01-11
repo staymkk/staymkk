@@ -15,8 +15,11 @@
 - **Development Concepts:** OOP, Functional Programming, Clean Code
 
 ## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=staymkk&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=staymkk&layout=compact&theme=default)
+<!-- Statistics will appear as activity increases -->
+<!-- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=staymkk&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=staymkk&layout=compact) 
+-->
 
 ## Featured Project
 
@@ -93,5 +96,3 @@ My repositories document the progression of my technical education. Each project
 - **Образование:** НГТУ, Информационные технологии в цифровой экономике
 
 ---
-
-*Профиль отражает академический путь и профессиональное развитие в области разработки программного обеспечения.*
